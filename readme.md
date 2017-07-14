@@ -8,7 +8,8 @@ All unit tests and solutions involve an CRUD Api for tracking Ping Pong Matches.
 
 ## Setup
 
-1. ```sh
+1. Setup project
+```sh
 $ npm install
 $ sequelize db:migrate
 ```
